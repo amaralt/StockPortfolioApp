@@ -35,6 +35,7 @@ This is a work in progress.
       3. Add Stock to Client
       
 <h2> Challenging Tasks </h2>
+
 1. Learning Ruby on Rails
 2. Linking stock gems
 3. Creating tables
