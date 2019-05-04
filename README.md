@@ -41,3 +41,7 @@ This is a work in progress.
 3. Creating tables
 4. Creating ComboboxeS
   
+<h2> Current Problems </h2>
+
+1. Cannot create a Rails Project because SQLite3 is not installed on computer even though it is installed.
+I might switch to Ubuntu/Linux if problems with Windows 10 Exist.
